@@ -17,3 +17,6 @@ scipy
 seaborn
 statsmodels
 streamlit
+tqdm
+xgboost
+shap
