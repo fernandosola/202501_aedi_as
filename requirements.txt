@@ -3,6 +3,8 @@ bioinfokit
 ipython
 jupyterlab
 imblearn
+ipython
+ipywidgets
 matplotlib
 nbconvert
 notebook
@@ -11,7 +13,7 @@ pandas
 pingouin
 plotly
 plotly-express
-scikit-learn
+scikit-learn==1.5.2
 scikit-posthocs 
 scipy
 seaborn
